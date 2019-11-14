@@ -1,0 +1,88 @@
+.bk-colour-light{
+  background-color: #F0E3D3;
+}
+
+.bk-colour-dark{
+  background-color: #FBD8AF;
+}
+
+.reviewsBK{
+  background-color: #4a4a4a;
+  color: white;
+}
+
+.bk-colour-white{
+  background-color: white;
+}
+
+.whiteText{
+  color: white;
+}
+
+.blackText{
+  color: black;
+}
+
+.smartFont{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.mainImg{
+  opacity: 0.9;
+  filter: alpha(opacity=80);
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bold{
+  font-weight: bold;
+}
+
+.bulletPoint{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#font{
+  font-family: "Moon2.0";
+  font-size: 19px;
+}
+
+@font-face{
+  font-family: "Moon2.0";
+  src: url(../font/ubuntu/Ubuntu-L.ttf);
+}
+.paddingLogo{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.buttonColour{
+  background-color: #ed7d31;
+  color: white;
+}
+.textColour{
+  color: #ed7d31;
+}
+.paddingRight{
+  padding-right: 80px;
+}
+#fontColour {
+  color: #ed7d31;
+}
+#contact .section-heading {
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.handBall-img{
+  background-image: url(./img/ballHand-min.jpg);
+}
+.openHand-img{
+  background-image: url(./img/hand1-min.jpg);
+}
+.fist-img{
+  background-image: url(./img/fist-min.jpg);
+}
+.hand2-img{
+  background-image: url(./img/hand2-min.jpg);
+}
